@@ -1,5 +1,4 @@
  # :wave: Hi there!
-My name is Matheus, and I'm a full stack development with a passion for transforming data into actionable insights. I am completely passionate about discovering new things, focused, and have been in the field for exactly 1 year. I am curious, I am very persistent (I like to ask questions), and I study and improve myself to enhance my methodologies and become more agile! I possess a strong background in data manipulation and analysis using Python and SQL, along with significant expertise in crafting compelling visualizations with Power BI. 
 
 # :rocket: Here's a bit more about me: 
 ### Passion for Development:
