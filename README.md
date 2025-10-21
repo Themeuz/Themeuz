@@ -1,8 +1,6 @@
 # Matheus Bicego | Desenvolvedor Full Stack (Node.js & React)
 
-Olá! 👋 Sou um Desenvolvedor em transição de carreira, trocando o controle de estoque pela codificação de aplicações web. Atualmente sou Almoxarife na Rede D'Or e estudante de Análise e Desenvolvimento de Sistemas, com foco total em construir soluções práticas com JavaScript.
-
-Meu objetivo é simples: resolver problemas reais com código limpo e funcional.
+Olá! 👋 Sou um Desenvolvedor em transição de carreira, trocando o controle de estoque pela codificação de aplicações web. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com foco total em construir soluções práticas com JavaScript.
 
 ---
 
@@ -23,7 +21,7 @@ Aqui não tem papo furado, tem código. Estes são os projetos que eu construí 
 * **Backend:** Node.js, Express, Prisma
 * **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS
 * **Bancos de Dados:** PostgreSQL, MongoDB
-* **Ferramentas e DevOps:** Git, GitHub, (mencione Docker ou Jest se souber)
+* **Ferramentas e DevOps:** Git, GitHub, Docker
 
 ---
 
