@@ -1,9 +1,6 @@
 # Matheus Bicego | Desenvolvedor JavaScript
 
----
-
 ### Meus Projetos
-
 
 | Projeto | Descrição | Stack |
 |---|---|---|
