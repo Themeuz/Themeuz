@@ -1,10 +1,8 @@
-# Matheus Bicego | Desenvolvedor Full Stack JavaScript
-
-Olá! 👋 Sou um Desenvolvedor em transição de carreira!
+# Matheus Bicego | Desenvolvedor JavaScript
 
 ---
 
-### 🚀 Meus Principais Projetos
+### Meus Projetos
 
 
 | Projeto | Descrição | Stack |
@@ -14,7 +12,7 @@ Olá! 👋 Sou um Desenvolvedor em transição de carreira!
 
 ---
 
-### 📫 Como me encontrar
+### Contato
 
 * **LinkedIn:** [https://www.linkedin.com/in/matheus-bicego-tech/](https://www.linkedin.com/in/matheus-bicego-tech/)
 * **E-mail:** matheusbicegodata@gmail.com
